@@ -1,0 +1,3 @@
+Test Accuracy: 0.9140
+Test Loss: 0.2401
+Epochs Trained: 15
